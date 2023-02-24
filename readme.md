@@ -15,7 +15,7 @@ Welcome to the SQL Cheatsheet! This open source project aims to provide a compre
 - [Indexes](#indexes)
 - [Transactions](#transactions)
 - [Window Functions](#window-functions)
-- [CTE (Common Table Expression)](<#cte-(common-table-expression)>)
+- [CTE (Common Table Expression)](#cte-common-table-expression)
 - [Set Operators](#set-operators)
 - [Subquery in FROM Clause](#subquery-in-from-clause)
 - [Conditional Logic](#conditional-logic)
